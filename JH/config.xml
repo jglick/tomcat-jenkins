@@ -1,0 +1,4 @@
+<hudson>
+    <useSecurity>false</useSecurity>
+    <version>2.0</version>
+</hudson>

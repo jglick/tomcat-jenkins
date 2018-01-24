@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<log>
+  <name>CFI</name>
+  <targets>
+    <target>
+      <name>jenkins.security.ClassFilterImpl</name>
+      <level>500</level>
+    </target>
+  </targets>
+</log>
